@@ -1,0 +1,6 @@
+FROM openjdk:17-jdk-alpine
+ADD target/pubsumom-0.0.1.jar pubsumom-0.0.1.jar
+CMD java -jar pubsumom-0.0.1.jar
+
+
+
