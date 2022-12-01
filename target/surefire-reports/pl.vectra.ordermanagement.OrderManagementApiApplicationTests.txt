@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: pl.vectra.ordermanagement.OrderManagementApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.338 s <<< FAILURE! - in pl.vectra.ordermanagement.OrderManagementApiApplicationTests
+pl.vectra.ordermanagement.OrderManagementApiApplicationTests  Time elapsed: 0.337 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.lang.Class.getName()" because "found" is null
+
